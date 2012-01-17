@@ -1,0 +1,31 @@
+Help on Help
+16
+Avalot's help system consists of pieces of text, like
+this one, which have rows of buttons down the side.
+You may select these by pressing the letter to their
+right. Doing this moves you to another part of the
+help system.
+
+\Try it now with the "Quotes" button.
+
+There will always be an "Back to Game" button right at
+the bottom, to let you return to the game.
+
+Choose the "Main" button at any time to return to the
+first screen.
+!
+        Main
+M
+9
+0
+-
+        Quote
+Q
+19
+5
+-
+-
+        Back to game
+þ
+15
+255

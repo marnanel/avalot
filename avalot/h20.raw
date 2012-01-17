@@ -1,0 +1,43 @@
+Making it Work (page 2 of 4)
+10
+Joystick problems
+\"""""""""""""""""
+ "My joystick does not make Avalot move."
+
+Before using your joystick, you must first select
+"Joystick Setup" off the main menu of the setup
+program.
+
+Avalot only supports IBM-compatible joysticks. If you
+have one, first check that your joystick is plugged
+in properly. If it is, try pressing ctrl-J to switch
+joystick mode on. If it still doesn't work, it may be
+that your joystick is badly adjusted-- run the
+joystick part of the setup program again.
+
+(continued below...)
+!
+        Help on Help
+H
+16
+1
+        Main Menu
+M
+9
+0
+        Making it Work
+W
+10
+24
+        Page up
+Ö
+18
+10
+        Page down
+Ø
+17
+31
+        Back to game
+þ
+15
+255

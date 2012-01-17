@@ -1,0 +1,29 @@
+How to play Nim
+1
+Nim is a game played with three piles of stones, one
+containing three, one four and one five. Each player
+has a turn, in which he can take as many as he likes,
+but only from one pile in one turn. Play continues
+until one player empties the last pile.
+That player wins.
+
+Hint: Arithmetic Progressions are the key!
+!
+        Help on Help
+H
+16
+1
+        Main
+M
+9
+0
+        The Game
+G
+3
+25
+-
+-
+        Back to game
+þ
+15
+255

@@ -1,0 +1,9 @@
+JOBS.TXT
+""""""""
+
+(It had to come along some time!) This file lists, roughly in order of
+urgency, the jobs that need to be completed in Avalot before it's released.
+
+* Demo mode. (Nearly done...)
+* Put in an un-LZEXE checker.
+* Anything else?

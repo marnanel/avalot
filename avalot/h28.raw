@@ -1,0 +1,43 @@
+Keys (page 2 of 4)
+2
+      Key   What it does
+\      ===   ============
+       f6   Pauses the game. (=PAUSE command.)
+       f7   Opens a nearby door. (=OPEN command.)
+  ctrl-f7   Redraws the screen (useful if a TSR
+            writes rubbish all over it.)
+       f8   Puts up a description of this room.
+            (=LOOK command.)
+       f9   Tells you your score and your rank.
+            (=SCORE command.)
+       f10  Quits the game (again.)
+ shift-f10  Puts up the About box.
+       f11  Save game- alternative for ctrl-f2
+       f12  Load game- alternative for ctrl-f3
+     alt-B  Puts up the Boss screen.
+     alt-X  Quits the game (yet again.)
+!
+        Help on Help
+H
+16
+1
+        The Game
+G
+3
+25
+        Control Menu
+C
+6
+26
+        Page Up
+Ö
+18
+27
+        Page Down
+Ø
+17
+29
+        Back to Game
+þ
+15
+255

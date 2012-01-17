@@ -1,0 +1,40 @@
+Keys (page 1 of 4)
+2
+(The kind you find on keyboards.)
+
+Here's a list of all the keys that are valid in
+Avalot:
+      Key   What it does
+\      ===   ============
+       f1   Gets you context-sensitive online help!
+       f2   Switches the sound on and off.
+  ctrl-f2   Saves the game. This only works if it
+            knows the filename.
+       f3   Restores the last line you typed.
+  ctrl-f3   Invokes the filer.
+       f4   Restarts the game.
+   alt-f4   Quits the game.
+       f5   Gets up, lies down, sits down, etc.
+  ctrl-f5   Shell to DOS.
+!
+        Help on Help
+H
+16
+1
+        The Game
+G
+3
+25
+        Control Menu
+C
+6
+26
+-
+        Page Down
+Ø
+17
+28
+        Back to Game
+þ
+15
+255

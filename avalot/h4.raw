@@ -1,0 +1,35 @@
+Joystick Support
+5
+Unless you set the joystick up using the setup
+program, you will not be able to use it.
+
+ To switch joystick control on, press Ctrl-J. To
+  turn it off and keyboard/mouse control on,
+  press Ctrl-K.
+
+ Avalot will move in the direction the stick is
+  pointing in.
+
+ The left button will open a door, the same as f7.
+
+ The right button means "look". This is equivalent
+  to f8.
+!
+        Help on Help
+H
+16
+1
+        The Game
+G
+3
+25
+        Control Menu
+C
+6
+26
+-
+-
+        Back to Game
+þ
+15
+255

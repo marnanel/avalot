@@ -1,0 +1,30 @@
+SOUND
+ Avalot supports Pro AudioSpectrums, SoundBlasters and
+  other sound cards, but in the setup program, you'll need
+  to say that you have one and give technical information 
+  about it before Avalot can use it. If you don't, then 
+  Avalot will only use the plain PC speaker.
+
+ There are several pieces of music in the game, all
+  composed or transcribed by Thomas Thurman:
+
+Title                  Composer     When it is played
+"""""                  """"""""     """""""""""""""""
+"Go to Joan Glover"    Traditional  When you read "The story
+                                    so far" off the main 
+                                    menu
+
+"Home Sweet home"      Traditional  When you return to your
+                                    castle
+
+"The Avalot theme"     T.Thurman    When the credits come up
+                                    after the game is
+                                    loaded, and the main 
+                                    menu.
+
+"King of the Boetians"              When you die in the 
+                                    game.
+
+ There are also several sound effects in the game.
+!
+Story

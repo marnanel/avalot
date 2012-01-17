@@ -1,0 +1,234 @@
+File BASHER.PAS:
+
+' ': display('Wrong game!'); { alt-D }
+
+File ENID.PAS:
+   
+ display(^F+'Saved: '+^R+name+'.');
+ 
+ display(^g+^f+^s+icon+^v+'Loading error:  '+^m^m^r+x);
+  
+  display(^s'3'^v'Warning: '^c^m'EDNA size doesn''t match.'^l);
+  
+  display(^F+'Loaded: '+^R+name+^c+^m^m+desc+^m^m+'saved on '+
+   
+   display('Dir: '+path+^m^m^d);
+   
+   display(^m^i'Press Enter...');
+  
+  display('No files found!')
+ 
+ else display(^i'That''s all!');
+
+File TRIP5.PAS:
+         
+         display('Phew! Nice to be out of there!');
+         
+         display('Oh, NO!'^s'1'^b);
+         
+         display('Oh no... here we go again...');
+       
+       display('Oh dear, you seem to be down the bottom of an oubliette.');
+       
+       display(#7'Sorry.'^c^m'This place is not available yet!');
+     
+     display('Steady on, Avvy, you''ll make the poor girl dizzy!');
+    
+    display(^f'AVVY!'^r' Get dressed first!');
+    
+    display('You leave the cupboard. Nice to be out of there!');
+   
+   display('You walk into the room...'^p'It seems to be an empty, '+
+    'but dusty, cupboard. Hmmmm... you leave the door slightly open to '+
+    'avoid suffocation.');
+
+File ACCESS.PAS:
+                
+                display('Can you get me '+
+                
+                , please?'+
+
+File TIMEOUT.PAS:
+ 
+ display('That''s better!');
+ 
+ display('<"Bang" sound effect>');
+ 
+ display('Hmm... sounds like Spludwick''s up to something...');
+ 
+ display(^f'Your score was '+strf(shootscore)+'.'+^m^m'You gain ('+
+  
+  display('You can''t expect to be '^f'that'^r' lucky twice in a row!');
+ display(^f'PHEW!'^r' You''re glad to get out of '^f'there!');
+ 
+ display(' T H E    E N D ');
+
+File AVALOT9.PAS:
+    
+    display('So let''s start from the beginning instead...');
+
+File LUCERNA.PAS:
+  
+  display('Good morning!'^m^m'Yes, it''s just past midnight. Are you having'+
+          ' an all-night Avvy session? Glad you like the game that much!');
+
+File SCROLLS.PAS:
+  display('...Positive about that?'^S'I'^V^M^Q); { be annoying! }
+
+   display('100% certain??!'^V^M^Q); { be very annoying! }
+
+   nowt: display('nothing at all. It''s completely empty.');
+ 
+ display('Okay!');
+ 
+ display('To play the harp...'^m^m'Use these keys:'^m^i+
+  'Q W E R T Y U I O P [ ]'^m^m'Or press Enter to stop playing.'^d);
+
+
+File VISA.PAS:
+   display(^g+'Error accessing scroll '+block+strf(point));
+                display('Can you get me '+
+   display(^S+chr(fv+48)+^D);
+ if no_matches then display(^S^S^D);
+File ACCI.PAS:
+ display('Dumped.');
+  display('Have you gone dotty??!');
+ display(^f'Ninety: '^r^d);
+        display('room swap to '+codes+'.');
+  'Z': begin zonk; display('Zonk OK!'); end;
+  'W': begin wobble; display('Ow my head!'); end;
+        display('Reincat.');
+         display('Become '+codes+':'+^m^m+a.name+^m+a.comment);
+  '±': display(^s'2'^u);
+  else display('unknown code!');
+  procedure displaywhat(ch:char; animate:boolean); { << it's an adjective! }
+    if animate then display('Whom?') else display('What?');
+    if animate then display('{ '+getname(ch)+' }')
+     else display('{ '+get_better(ch)+' }');
+          displaywhat(him,true);
+          displaywhat(her,true);
+          displaywhat(it,false);
+   display(^s'1'+x+'.'+^b+^s+'2');
+  display('Sorry, but I have no idea what `'+unknown+
+  if person<#175 then display('H'^d) else display('Sh'^d);
+  display('e isn''t around at the moment.');
+ if thing>#100 then display('Be reasonable!') else
+   display('You''re not holding it, Avvy.') else
+                  display(also[ord(thing)-50,1]^); { Also thing }
+   else display('It''s just as it looks on the picture.'); { don't know- guess }
+ q:=0; display('You''re carrying '+^d);
+    inc(q); if q=carrying then display('and '+^d);
+    display(get_better(fv)+^d);
+    if fv=wearing then display(', which you''re wearing'+^d);
+     if q<carrying then display(', '+^d);
+  if wearing=nowt then display('...'^m^m'...and you''re stark naked!') else
+   display('.');
+  else display('The taste of it makes you retch!'); { Constant- leave this one }
+    display(getname(fv)+^d) else
+     display(', '+getname(fv)+^d) else
+      display(' and '+getname(fv)+^d); { The end. }
+ if num_people=1 then display(' is'^d) else display(' are'^d);
+ display(' here.'); { End and display it. }
+ display(also[0,1]^);
+                  display(#7'Sorry.'^c^m'This place is not available yet!');
+  display('Avvy, you can complete the whole game without ever going '+
+ else display('Door? What door?');
+  display('Don''t be silly!');
+          display('That''s a bit like shutting the stable door after the '+
+            display(^f'Oignon au vin'^r' is a bit too strong for your tastes!')
+           display('There''s something in the box already, Avvy. Try taking'+
+            money: display('You''d better keep some ready cash on you!');
+            bell: display('That''s a silly place to keep a bell.');
+            bodkin: display('But you might need it!');
+            onion: display('Just give it to Spludwick, Avvy!');
+              display('You''d better take '+get_better(thing)+' off first!')
+              display('OK, it''s in the box.');
+   display('Sorry, I need the ingredients in the right order for this potion.'+
+  display('You climb down, back onto the floor.');
+    display('You clamber up onto the dais.');
+    display('Get a bit closer, Avvy.');
+   display('You''re already standing!');
+       display('OK, I''ve got it.');
+       display('I can''t see '+get_better(thing)+' in the box.');
+        display('It''s not there, Avvy.')
+        display('Taken.');
+              display('Got it!');
+   display('Not yet. Try later!'^s'2'^b);
+ else display('Get a bit closer to it, Avvy!');
+   display(^s'1'^d); { Avvy himself! }
+    display(^s+chr(fv+48)+^d);
+      display(^s+chr(fv+55)+^d);
+    display('Hey, thanks!'^b'(But now, you''ve lost it!)');
+        display('You''re dead, so don''t talk. What are you, a ghost '+
+        display('Talking in your sleep? Try waking up!'); exit;
+  vb_pause: display('Game paused.'+^c+^m+^m+'Press Enter, Esc, or click '+
+            if dna.carrying=9 then display('You can''t carry any more!')
+             display('You can''t sweep folk off their feet!') else
+            display('I assure you, you don''t need it.');
+  vb_drop: display('Two years ago you dropped a florin in the street. Three days '+
+                display('Yes, but what '^f'is'^r' the password?')
+                if person=pardon then display('Talk to whom?')
+            end else if person=pardon then display('Talk to whom?')
+              money : display('You can''t bring yourself to give away your moneybag.');
+              bodkin,bell : display('Don''t give it away, it might be useful!');
+                                        display('Crapulus grabs the wine and gulps it down.');
+                                 display('You might be able to influence '+
+                               display('But he''s asleep!');
+           else display('It''s a bit late now to save your game!');
+  vb_pay: display('No money need change hands.');
+  vb_break: display('Vandalism is prohibited within this game!');
+        if not polite then display('How about a `please", Avvy?') else
+  vb_go: display('Just use the arrow keys to walk there.');
+(*            display('Thorsoft of Letchworth presents:'+^c+^m+^m+
+             display(^m^m^m^m^m^m^m+'LORD AVALOT D''ARGENT'+^c^m+
+  vb_undress: if dna.wearing=nowt then display('You''re already stark naked!')
+             display('You take off '+get_better(dna.wearing)+'.');
+            display('Hadn''t you better find somewhere more private, Avvy?');
+         chastity: display('Hey, what kind of a weirdo are you??!');
+                          display('You''ll be rather warm wearing two '+
+         else display(what);
+                    else display(what);
+                    else display(what);
+             else display(what);
+         display('Ding, dong, ding, dong, ding, dong, ding, dong...');
+          display('(Are you trying to join in, Avvy??!)');
+        end else display(what);
+  vb_larrypass: display('Wrong game!');
+  vb_phaon: display('Hello, Phaon!');
+           display('Hmm, I don''t think anyone will notice...');
+          end else display('It would be '^f'VERY'^r' unwise to do that here, Avvy!');
+             display(^F+'Cheat mode now enabled.');
+             end else display('Nothing appears to happen...');
+  vb_smartalec: display('Listen, smart alec, that was just rhetoric.');
+          0: display('Avvy! Do you mind? There might be kids playing!'^M^M+
+          1: display('You hear a distant rumble of thunder. Must you always '+
+           display('A crack of lightning shoots from the sky, '+
+              display('All other noise is drowned out by the ringing of '+
+               display('You can''t hear anything much at the moment, Avvy.')
+                else display(listen);
+                            display(booze[thing]+', please.'^s'1'^b);
+                          show_one(12); display('Wine, please.'^s'1'^b);
+                    display('(At the very least, don''t use your bare hands!)');
+                1: display('Attack him with only a crossbow bolt? Are you '+
+                2: display('Come on, Avvy! You''re not going to get very far '+
+                   display('Contrary to your expectations, the drawbridge fails to close again.')
+                    display('The drawbridge opens!');
+   vb_score: display('Your score is '+strf(dna.score)+
+              then display('Kiss whom?')
+             #150..#174: display('Hey, what kind of a weirdo are you??');
+              display('Not with your head for heights, Avvy!');
+                    end else display('You''re already awake, Avvy!');
+               pAyles: if not Ayles_is_awake then display('You can''t seem to wake him by yourself.');
+               pJacques: display('Brother Jacques, Brother Jacques, are you asleep?'^s'1'^b+
+               else display('It''s difficult to awaken people who aren''t asleep...!');
+             display('You''re already sitting!')
+            display('A few hours later...'^p'nothing much has happened...');
+  pardon: display('Hey, a verb would be helpful!');
+  vb_hello: begin person_speaks; display('Hello.'^b); end;
+  vb_thanks: begin person_speaks; display('That''s OK.'^b); end;
+  else display(^G+'Parser bug!');
+File HIGHS.PAS:
+ display('HIGH SCORERS'^c^m'  Name'^i^i'Score   Rank'^m'  """"'^i^i'"""""   """"'^l^d);
+   display(^m+name+^d);
+   display(x+y+' '+rank+^d);
+ display('');

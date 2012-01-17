@@ -1,0 +1,147 @@
+THINGS.TXT
+""""""""""
+
+Things you can pick up in Avalot.
+
+  1 : Wine
+
+Get: 1) from pub in Argent. This wine deteriorates over time, becoming
+        nasty wine, then vinegar.
+
+     2) from pub in Nottingham. This wine stays good always.
+
+Use: 1) for pickling the onion,
+     2) for drinking (get the key.)
+		(NB: You may also drink beer, ale, whisky, cider, etc.)
+
+        -   -   -   -   -   -   -
+
+  2 : Money
+
+Get: Ab initio.
+
+Use: Paying for things.
+
+(Note: if you lose this you lose the game.)
+
+        -   -   -   -   -   -   -
+
+  3 : Bodkin
+
+Get: Ab initio.
+
+Use: Red herring.
+
+        -   -   -   -   -   -   -
+
+  4 : Potion
+
+Get: From Spludwick, after you've given him the onion, the ink and the
+mushroom, in that order.
+
+Use: Transforms Arkata (at the end of the game.)
+
+        -   -   -   -   -   -   -
+
+
+  5 : Chastity belt.
+
+Get: From Geida.
+
+Use: ?
+
+        -   -   -   -   -   -   -
+
+  6 : Bolt
+
+Get: From Cardiff (jump to get it; it's buried in the wall.)
+
+Use: Used with the crossbow to give to Cwytalot.
+
+        -   -   -   -   -   -   -
+
+  7 : Crossbow
+
+Get: From Robin Hood, after winning shoot-'em-up.
+
+Use: Same as Bolt.
+
+        -   -   -   -   -   -   -
+
+  8 : Lute
+
+Get: From Dogfood, in the pub, after winning Nim.
+
+Use: Give to Geida to play lullaby to Baron du Lustie.
+
+        -   -   -   -   -   -   -
+
+  9 : Pilgrim's badge.
+
+Get: From Roamalot, via Crapulus, near the start of the game.
+
+Use: Give to Ibythneth in the pub.
+
+        -   -   -   -   -   -   -
+
+ 10 : Mushroom
+
+Use: Give to Spludwick.
+
+        -   -   -   -   -   -   -
+
+ 11 : Key (to chastity belt.)
+
+Get: After drinking more than seven pints, you wake up holding this.
+
+        -   -   -   -   -   -   -
+
+ 12 : Bell
+
+Get: Ab initio.
+
+Use: Red herring (again.)
+
+        -   -   -   -   -   -   -
+
+ 13 : Prescription
+
+Get: From Dr. Duck in Norwich.
+
+Use: Give to Spludwick.
+
+        -   -   -   -   -   -   -
+
+ 14 : Pen
+
+        -   -   -   -   -   -   -
+
+ 15 : Ink
+
+Use: Give to Spludwick.
+
+        -   -   -   -   -   -   -
+
+ 16 : Clothes
+
+Get: Ab initio.
+
+Use: Normal wear.
+
+        -   -   -   -   -   -   -
+
+ 17 : Habit
+
+Get: From Ibythneth in the pub.
+
+Use: Get into Abbey.
+
+        -   -   -   -   -   -   -
+
+ 18 : Onion
+
+Get: From trader in market in Norwich.
+
+Use: Give to Spludwick.
+
+        -   -   -   -   -   -   -

@@ -1,0 +1,43 @@
+Keys (page 3 of 4)
+2
+      Key   What it does
+\      ===   ============
+    ctrl-R  Switches on Running.
+     alt-R  Repeat last clock chimes.
+    ctrl-W  Switches on Walking.
+       Tab  Puts up an inventory list.
+    ctrl-I  The same.
+    Enter   Performs current command, or banishes a
+            scroll.
+    Arrows  Move Avvy about.
+ Numeric 5  Stops Avvy walking (but ONLY on an
+            enhanced keyboard.)
+PgUp, PgDn,
+Home & End  Make Avvy walk diagonally.
+ ctrl-Home  Moves the cursor to the START of the line.
+  ctrl-End  Moves it to the END of the line.
+!
+        Help on Help
+H
+16
+1
+        The Game
+G
+3
+25
+        Control Menu
+C
+6
+26
+        Page Up
+Ö
+18
+28
+        Page Down
+Ø
+17
+30
+        Back to Game
+þ
+15
+255

@@ -1,0 +1,39 @@
+Format of the slope line:
+
+Paramstr(1) = "Go", for first run of Avalot
+              "et", for all following runs.
+              "jsb" for all other programs.
+
+Paramstr(2) = seg(storage)
+Paramstr(3) = ofs(storage)
+
+
+Paramstr(4) = slope line:
+
+(Where not otherwise indicated, each character is y for yes, or n for no.)
+
+1. Must be the number '1'.
+2. Display syntax help screen and quit.
+3. Sound effects are on.
+4. Ignore EGA check.
+5. Keyclick is on.
+6. 'p' for logging to printer,
+   'l' for logging to file, or
+   'n' for no logging.
+7. This is a demo.
+8. Zoomy start.
+9. Num lock hold is on.
+10. Use joystick 1?
+
+Paramstr( 5) = xmid
+Paramstr( 6) = ymid
+Paramstr( 7) = xmin
+Paramstr( 8) = ymin
+Paramstr( 9) = xmax
+Paramstr(10) = ymax
+Paramstr(11) = centre
+
+Paramstr(12) = name of file to log to.
+
+Paramstr(13) = name of file to load.
+

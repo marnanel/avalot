@@ -1,0 +1,111 @@
+POINTS.TXT
+""""""""""
+A list of all the places you can get points in Avalot.
+
+1) ROOMS
+
+You can get ONE point by walking for the first time into any room
+except:
+
+       1: Your room
+      99: The map.
+
+(This is indicated by the "S" (for Score) flag being set.)
+
+Altogether, this makes a total of 32 points.
+
+Note that this figure changes all the time.
+
+2) SHOOT-'EM-UP
+
+You can get points in the shoot-'em-up, maximum 20. (This is your score in
+the SEU divided by 10).
+
+3) MERIT POINTS
+
+For solving puzzles, etc. This is the easiest area to control.
+
+They are awarded by:
+
+     ACCI
+     ----
+
+     Acci.Do_that (vb_buy section) gives
+                            3 points if it's your first alcoholic drink
+                              within this game, and
+                            3 points the first time you buy the onion.
+
+     Acci.Do_that (vb_attack) gives
+                            7 points when you send Cwytalot to Jerusalem.
+
+     Acci.Do_that (vb_give) gives
+                            3 points when you give Iby the badge.
+                            2 points when you give Ayles the ink.
+                            2 points when you give Geida the potion.
+
+     Acci.Do_that (vb_password) gives
+                            4 points when you open the drawbridge.
+
+     Acci.Do_that (vb_wake) gives
+                            1 point for waking up.
+
+     Acci.Putproc gives
+                            7 points for putting the onion in the vinegar.
+
+     Acci.Give2Spludwick gives
+                            3 points for giving Spludwick the ink,
+                            3 points for giving Spludwick the onion, and
+                            5 points for giving Spludwick the mushroom.
+
+     Acci.StandUp gives
+                            1 point for getting up in the morning.
+
+     Acci.Getproc gives
+                            3 points for picking the mushrooms.
+
+     Acci.Give_Geida_the_lute gives
+                            4 points for giving Geida the lute.
+
+     NIMUNIT
+     -------
+
+     Nimunit.Play_Nim gives 7 points when you win the game, and
+                            3 points for your first game.
+
+     SCROLLS
+     -------
+
+     Scrolls.CallDrivers gives
+                            2 points for finding the 6d in the box.
+
+     TIMEOUT
+     -------
+
+     Timeout.Avaricius_Talks gives
+                            3 points when Avaricius finishes talking.
+
+     (Timeout also handles adding the score from the shoot-em-up.)
+
+     Timeout.Jacques_wakes_up gives
+                            2 points when Jacques wakes up.
+
+     Timeout.Jump gives
+                            3 points for getting the arrow.
+
+     VISA
+     ----
+
+     Visa.TalkTo gives
+                            3 points when Spludwick gives you the 2nd potion.
+                            2 points when Crapulus gives you your letters.
+     LUCERNA
+     -------
+
+     (Lucerna handles adding a point in new rooms.)
+
+
+TOTAL NUMBER OF MERIT POINTS: 76.
+Number of room points:        32.
+Number of SEU points:         20.
+                              --
+                     Total:  128.

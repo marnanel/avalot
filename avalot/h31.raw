@@ -1,0 +1,35 @@
+Making it Work (page 3 of 4)
+10
+Joystick problems continued...
+\""""""""""""""""""""""""""""""
+Avalot can be set up so that it uses the joystick by
+default. You can use the setup program to do this, or
+edit AVALOT.INI.
+
+The Amstrad joystick emulates the keyboard, so you
+should not have any troubles with this.
+!
+        Help on Help
+H
+16
+1
+        Main Menu
+M
+9
+0
+        Making it Work
+W
+10
+24
+        Page up
+Ö
+18
+20
+        Page down
+Ø
+17
+32
+        Back to game
+þ
+15
+255

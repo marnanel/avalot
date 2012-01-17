@@ -1,0 +1,101 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 004E4H 004E5H avalot_bootstrap   CODE
+ 004F0H 00697H 001A8H Dos                CODE
+ 006A0H 012C3H 00C24H System             CODE
+ 012D0H 0667DH 053AEH DATA               DATA
+ 06680H 0867FH 02000H STACK              STACK
+ 08680H 08680H 00000H HEAP               HEAP
+
+  Address         Publics by Value
+
+ 0000:0000       strf
+ 0000:0087       command_com
+ 0000:011E       run
+ 0000:020F       run_avalot
+ 0000:028E       get_arguments
+ 0000:03CB       dos_shell
+ 0000:048A       @
+ 004F:0000       GetEnv
+ 004F:006E       Exec
+ 004F:0102       DosExitCode
+ 004F:0107       MsDos
+ 004F:0112       Intr
+ 004F:016F       SwapVectors
+ 012D:0002       runcodes
+ 012D:0008       OvrCodeList
+ 012D:000A       OvrHeapSize
+ 012D:000C       OvrDebugPtr
+ 012D:0010       OvrHeapOrg
+ 012D:0012       OvrHeapPtr
+ 012D:0014       OvrHeapEnd
+ 012D:0016       OvrLoadList
+ 012D:0018       OvrDosHandle
+ 012D:001A       OvrEmsHandle
+ 012D:001C       HeapOrg
+ 012D:0020       HeapPtr
+ 012D:0024       HeapEnd
+ 012D:0028       FreeList
+ 012D:002C       FreeZero
+ 012D:0030       HeapError
+ 012D:0034       ExitProc
+ 012D:0038       ExitCode
+ 012D:003A       ErrorAddr
+ 012D:003E       PrefixSeg
+ 012D:0040       StackLimit
+ 012D:0042       InOutRes
+ 012D:0044       RandSeed
+ 012D:0048       SelectorInc
+ 012D:004A       Seg0040
+ 012D:004C       SegA000
+ 012D:004E       SegB000
+ 012D:0050       SegB800
+ 012D:0052       Test8086
+ 012D:0053       Test8087
+ 012D:0054       FileMode
+ 012D:0058       storage
+ 012D:505A       arguments
+ 012D:515A       first_time
+ 012D:515B       original_mode
+ 012D:515C       DosError
+ 012D:5162       Input
+ 012D:5262       Output
+ 012D:5362       SaveInt00
+ 012D:5366       SaveInt02
+ 012D:536A       SaveInt1B
+ 012D:536E       SaveInt21
+ 012D:5372       SaveInt23
+ 012D:5376       SaveInt24
+ 012D:537A       SaveInt34
+ 012D:537E       SaveInt35
+ 012D:5382       SaveInt36
+ 012D:5386       SaveInt37
+ 012D:538A       SaveInt38
+ 012D:538E       SaveInt39
+ 012D:5392       SaveInt3A
+ 012D:5396       SaveInt3B
+ 012D:539A       SaveInt3C
+ 012D:539E       SaveInt3D
+ 012D:53A2       SaveInt3E
+ 012D:53A6       SaveInt3F
+ 012D:53AA       SaveInt75
+
+Line numbers for avalot_bootstrap(BOOTSTRP.PAS) segment avalot_bootstrap
+
+    26 0000:0000    27 0000:000F    28 0000:003B    32 0000:0087
+    33 0000:0096    34 0000:00B5    35 0000:00BC    36 0000:00D8
+    37 0000:00EC    40 0000:011E    41 0000:0144    43 0000:014E
+    44 0000:0153    45 0000:0163    47 0000:0168    49 0000:016F
+    50 0000:01A4    52 0000:01D6    55 0000:020F    56 0000:021E
+    57 0000:0223    58 0000:0254    60 0000:0259    62 0000:0260
+    63 0000:027C    66 0000:0283    67 0000:0288    72 0000:028E
+    73 0000:029D    75 0000:02A2    76 0000:02B9    78 0000:02FF
+    80 0000:0303    82 0000:0368    86 0000:03CB    87 0000:03DA
+    88 0000:03EF    89 0000:03FE    90 0000:041A    91 0000:0436
+    92 0000:0445    93 0000:0461    94 0000:0470    95 0000:047C
+    97 0000:048A    98 0000:0499    99 0000:04A7   101 0000:04AC
+   104 0000:04AF   106 0000:04B2   108 0000:04C3   109 0000:04C6
+   110 0000:04D4   113 0000:04DB   114 0000:04DD
+
+Program entry point at 0000:048A
