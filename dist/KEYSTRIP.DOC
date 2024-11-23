@@ -1,0 +1,39 @@
+Keystrip.doc
+------------
+
+This file contains three function key explanation strips. You can print them,
+then cut them out and put them above your function keys, if you want to.
+
+
+   _________Avalot___________
+ /' f1 |  f2  |  f3  |  f4  |
+|------+-CTRL-+-CTRL-+-ALT--+
+|$$$$$$| save | load | quit |
+|Press | game | game | game |
+|  for +------+------+------+
+| help!|toggle|recall|restart
+|$$$$$$|sound | last | game |
+|------+------+------+------+
+
+____________Avalot___________
+|  f5  |  f6  |  f7  |  f8  |
++-CTRL-+------+-CTRL-+------+
+| Dos  |      |redraw|      |
+| shell|      |screen|      |
++------+------+------+------+
+| some | pause| open | look |
+|action| game | door |      |
++------+------+------+------+
+
+____________Avalot__________
+|  f9  |  f10 |  f11 |  f12 `\
++------+-SHIFT+------+--------|
+|      |about |      |        |
+|      | box  | alternative:  |
++------+------+------+--------|
+|score | quit | load |  save  |
+|& rank| game | game |  game  |
++------+------+------+--------|
+
+Typing COPY KEYSTRIP.DOC PRN will usually print this document.
+

@@ -1,0 +1,1165 @@
+			First there was Avaricius...
+
+	       Then, over a thousand years later, there came
+
+				   Lord
+
+	      oO"Oo  "OO  "OO   oO"Oo  "OO"      oO"Oo O"OO"O
+	     OO   OO  OO   OO  OO   OO  OO      OO   OO  OO
+	     OOoooOO  OO   OO  OOoooOO  OO      OO   OO  OO
+	     OO   OO   OO OO   OO   OO  OO    o "Oo oO"  OO
+	     ""   ""    """    ""   "" """"""""   """   """"
+				 d'Argent
+
+		  (A Mediaeval Graphical Adventure Game)
+
+	     Copyright (c) 1995, Mike, Mark and Thomas Thurman.
+
+
+		       Version 1.3 - December 1995
+
+
+			  
+ ****************************************************************************
+ * NB: Read the legal stuff at the end soon. Quick synopsis: Not to be      *
+ * hacked up or sold without our written consent. To be freely distributed. *
+ * Don't blame us for anything this program does. *NO WARRANTY!*            *
+ ****************************************************************************
+
+
+
+				Background
+				""""""""""
+
+Jupiter had had a hard day. Being head of the Mount Olympus Associate Group
+PLC was no picnic. In the morning, he had overheard the Naiads talking of
+going on strike again. Jupiter sighed- another drought. Then Pluto had come
+up to his office again to ask him if he would consider selling out, and when
+Jupiter refused, had gone off shouting that he would get Phoebus Apollo to
+print the story. Finally, Pan had told him that he had invented a sort of
+flying machine, and asked whether he could start an airline company on Mount
+Olympus. "You could call it the Jupiter-Pan-Olympian company." he had said.
+Jupiter said that he didn't see anything wrong with materialising in a puff
+of smoke, whereupon Pan went off in a huff. He had left a note: "Will not set
+up company on Olympus; have gone to America instead. Your name will not be
+included on the headed notepaper."
+
+Jupiter sighed again. At least he was off-duty now. The job wasn't that bad
+and it did have its perks. Omnipotence had had to go years ago, but you still
+got the executive flat in Docklands and the sports car. He'd taken to driving
+it around London recently. Being immortal certainly had its benefits.
+
+Another benefit of the job, he reflected, is the technology. That was the
+best thing for years. It was only in a few days' time that he had gone down
+to the end of the twentieth century and bought himself a laptop (his
+time-travelling wasn't what it used to be.) He had been rather annoyed that
+the installation program wasn't in Greek, but you couldn't have everything.
+
+The dryads, who were, of course, greatly in favour of the paperless office,
+had typed in all the records from the old ledger filing system for him only a
+day or two before. He decided to play around with it.
+
+     > Enter number of record:
+
+said the screen helpfully. Jupiter frowned at the screen; it was all English
+to him. At least he could remember how the numerals worked. He chose a number
+at random:
+
+     > CLXXVII
+
+he typed. Nothing happened, so he waited for a few minutes and then
+remembered he hadn't pressed Enter.
+
+     > Non-numeric characters in response, please try again
+
+announced the screen. Jupiter had never been much good at English and this
+was beyond him, but after a few minutes he realised that he was supposed to
+use the Arabic number system. He picked another random number and typed it
+in.
+
+     > 17417
+
+This time, he remembered to press Enter. The screen said:
+
+     > Report no. 17417: D. Avaricius Sextus
+
+     > Killed: while fighting as gladiator.
+     > (Had, in fact, killed 17 lions previously,
+     > in self-defence.)
+
+Jupiter stared at the screen as the text slowly scrolled up it. Of course! It
+was all coming back to him now. He called on the intercom for Neptune. There
+was a splashing sound, water flew everywhere, and Neptune appeared. The
+computer, having been hit by several stray drops, fizzed and exploded,
+obviously without hurting anyone.
+
+"Do you remember this chap?" asked Jupiter. "Quite tall? Red hair? Lived in
+Pompeii? Name of Avaricius?"
+
+"Hmm... it was a long time ago..." said Neptune. "Hang on a sec, yes, I do
+remember him. I set him up with that pretty little mermaid... what was her
+name, now..."
+
+"Never mind that," said Jupiter, "I've just remembered something. Do you know
+who warned him about the disaster?"
+
+"I heard on the grapevine it was a soothsayer named Quicphingus." said
+Neptune.
+
+"On the grapevine?"
+
+"Yeah, Bacchus told me."
+
+"Oh, right. Look, Quicphingus never existed! It was me! In disguise!"
+
+A slow smile began to spread itself across the sea-god's features. "You? You
+crafty old god!" he chuckled. "You dressed up as a soothsayer just to save
+him from the volcano?"
+
+"Oh, you know, I just felt like helping someone..." said Jupiter. "Well,
+actually, no, I'd promised to find that mermaid a husband. Vowed to on the
+Styx. Silly of me."
+
+"It's amazing." said Neptune. "I never realised it was you."
+
+"Did this Avvy chap have any children by this mermaid, then?" asked Jupiter.
+"I forgot to find out."
+
+"Oh, yes, lots. They spread all over the earth. D'you know something?"
+
+"Yes, everything. What in particular?" asked Jupiter.
+
+"Genetics. A lot of his descendants turned out exactly like him. I mean,
+totally. Even talked like him. Amazing."
+
+"That sounds interesting." mused the king of the gods. "Could I see one of
+them?"
+
+"Welllll...." said Neptune, "there's one... no, he wouldn't do, the game'd be
+banned, there's another... yes! There's one in 1189. Look."
+
+A huge puddle had spread across Jupiter's desk from the dripping hair of the
+ocean god. Neptune pointed at this and a shaky image formed, which grew
+steadily clearer. It seemed to be a picture of a bedroom in a mediaeval
+castle.
+
+Both the gods craned forwards and peered closer into the screen...
+
+
+			    Getting started
+			    """""""""""""""
+
+Assuming you've already installed Avvy (if you haven't, use the INSTALL
+program or just run AVLT100.EXE), you can start to play. To do this,
+you must type:
+
+	  AVALOT
+
+at the Dos prompt (something like C:\AVALOT> or C>.) The game will then load
+and you're ready to have fun. A sort of blue whirly thing will appear; if
+you don't want to sit and read all the credits, press any key. The whirly
+thing will then vanish, to be replaced by a menu. Soon, you'll see what you
+can do from this menu; for now, just press Enter. The game proper will then
+load and you'll see Avalot fast asleep in bed.
+
+
+The first thing you must do is to wake him up! Just type WAKE UP on the
+keyboard and press "Return" or "Enter" (usually marked with an arrow with a
+quarter turn in it.) Avvy will then wake. Typing GET UP will get him dressed
+and on his feet, and you'll be ready to progress to the next section of the
+manual!
+
+(NB: Since you need to do this whenever you start the game, there's a
+short-cut: press f5 twice to get him on his feet.)
+
+
+			   Moving Avvy around
+			   """"""""""""""""""
+
+OK, so you've woken Avvy up and he's ready to explore the world. But... how
+do you move him around? Well, there are four ways:
+
+	   1) For real traditionalists. This method involves using the
+	       arrow keys on the right-hand side of your keyboard. Press
+	       any arrow to make him walk in that direction (eg, left
+	       arrow makes him walk left.)
+
+	       There can be up to two sets of arrow keys on your keyboard.
+	       There's a set with numbers on (like 7 Home, 4 <--, 1 End,
+	       etc.). This is called the Numeric Keypad. If you have
+	       a snazzy new-style keyboard, there will also be a cluster of
+	       (probably grey) keys which only have arrows on. Some people
+	       prefer using these, but I've never lost the habit of using
+	       the numeric keypad for control (hey, I started out on an
+	       XT- and Avaricius was written on it.) But use whichever
+	       arrows you prefer, I don't mind. Right. If you choose
+	       to use the numeric keypad, bear in mind that Num Lock must
+	       be *off*, otherwise you'll just get a string of numbers
+	       on the command line.
+
+	       Another point in favour of the numeric keypad: The keys
+	       in between the arrow keys (Home, PgUp, PgDn, and End) make
+	       Avvy walk diagonally (so Home = up + left, etc.) It's
+	       faster to walk using these (sometimes). One other point:
+	       DON'T hold arrow keys down. It's POINTLESS! Press once to
+	       start him walking, and he's off.
+
+	       OK, you're asking, so I've made him walk, how do I stop him?
+	       Well, apart from running into a wall or similar, the usual
+	       way of stopping Avvy walking from the keyboard is to press
+	       the arrow pointing the way you're going. So to stop him
+	       walking up, for example, hit Up. I know it sounds weird,
+	       but it's simple in practice. Trust me. The other way of
+	       stopping Avvy only works on an enhanced keyboard (the Bios
+	       isn't really up to it on the older ones.) Just hit the 5
+	       in the middle of the keypad and he'll stop straight away.
+
+	       That was the ONLY practical method of control in Avaricius.
+	       However, time and computer hardware wait for no man, let
+	       alone Avvy, so we now support three other methods...
+
+	   2) Using the joystick. All you hardened games players out there,
+	       stop drinking cement and listen. You'll have to configure
+	       the joystick before you use it, using the Setup program
+	       (see below.) This is firstly because it's annoying to have
+	       to set it up every time you play (like in some other games-
+	       mentioning no names) and secondly because the Bios is
+	       frequently untrustworthy on the question of joysticks.
+	       So it's much more reliable for you, the user, to set it up
+	       than for me, the programmer, to check using the Bios. If
+	       you *don't* set it up, Avvy will ignore your joystick,
+	       so don't forget to. Whenever you run Avvy, just press ctrl-J
+	       to enable the joystick, and the cursor keys will be ignored.
+	       Press ctrl-K to switch them back. One button will then stand
+	       for "open door", and the other for "look". You'll still have
+	       to use the keyboard for most things, though. Happy waggling!
+
+	   3) Using the mouse and the toolbar. (I know Avaricius DID support
+	       the mouse, but did *you* use it? The mouse control was
+	       unworkable- it was sort of bolted on after I'd finished the
+	       keyboard routines. Not So With Avalot.) There's a colourful
+	       thingy second from the left on the toolbar (to the right of
+	       the space saying "Avalot".) This is called a compass. Click
+	       on the arrows to make Avvy walk around, and the octagonal
+	       "STOP" sign in the middle to make him... um... STOP.
+
+	   4) Less fiddly and more FUN! Click on the picture area of the
+	       screen. If you click to the left of Avvy, he'll walk left.
+	       If you click to the right, he'll walk right. If you... well,
+	       do I have to tell you about all eight points of the compass?
+	       You get the idea. If you click on our hero himself,
+	       he'll stop walking.
+
+
+
+			 A Shorter Avvy Vocabulary
+			 """""""""""""""""""""""""
+
+OK, I'm not going to tell you ALL the words that Avvy recognises. It would
+give the game away. (Yes, I know you're supposed to give shareware games
+away. Never mind.) But here are a few verbs to start you off:
+
+  LOOK       gives you a description of the room you're in. VERY useful.
+	      In fact, so useful that it has its own key. Just press f8
+	      instead.
+
+  EXAMINE    tells you about an object you're carrying, a person who's in
+	      the same room as you, or part of the scenery. For example,
+	      EXAMINE GRAFFITI. Commonly abbreviated to EXAM or just X.
+
+  INVENTORY  gives you a list of everything you're carrying. Commonly
+	      abbreviated to INV, Ctrl-I or just Tab.
+
+  OPEN       opens things. Useful for doors. You can press f7 instead.
+
+  PAUSE      pauses the game. f6 works too.
+
+  GET        takes something lying about. For example, GET LASER (just to
+	      let you know I'm not using a real example.)
+	      (Also called TAKE.)
+
+  EAT        ...drink and be merry.
+
+  DRINK      ...to me only with thine eyes.
+
+  LISTEN     tells you what Avvy can hear.
+
+  LOAD       loads a game in from disk. If you already know the filename,
+	      add it after the command, eg LOAD HELEN1. (You don't need
+	      to add ".ASG".) If you don't know the filename, just type LOAD
+	      and you'll get into the filer. See below.
+	      (Also known as RESTORE.)
+
+  SAVE       does the opposite of Load- saves the current state of the game.
+	      You may add a filename after the command.
+
+  RESTART    begins the game all over again.
+
+  WEAR       puts something on. It must be a real item of clothing.
+
+  BOSS       Just in case S.W.M.B.O. turns up, this puts up the boss screen.
+
+Of course, you can use words other than verbs, plus several verbs that
+aren't listed here. But I'm not telling you what they are! You'll have
+to find out for YOURSELVES! <laugh of anticipation>
+
+
+
+			The start of the game...
+			""""""""""""""""""""""""
+
+OK, just to get you started. You're asleep in your bed; type WAKE UP and
+you'll be awake. Type GET UP to get out of bed (good start.) Now practise
+walking around your bedroom with the cursor (arrow) keys.
+
+At the bottom of the screen is a sort of black trapezium with a white top.
+This is a standard adventure game symbol for "door in near wall" (you
+wouldn't be able to see it otherwise.) If you walk into this trapezium
+you'll find yourself on the other side of the door.
+
+A rather revolting serf named Crapulus will walk up and greet you. If you
+want, you can talk to him, or you can return to the door and type OPEN DOOR
+to go back into your room. When you've finished talking to Crapulus, he'll
+go off to the pub, leaving you alone in the room. Try walking to the left,
+then in the next room to the door in the near wall. This leads into
+Spludwick's room.
+
+Talk to Spludwick. Ask him about things. He can tell you a lot about the
+game. While you're in his room, try looking at all the things there.
+For example, on the floor you'll see a message. Typing
+
+	  LOOK AT MESSAGE
+or        READ MESSAGE
+or        EXAMINE MESSAGE
+or just   X MESSAGE
+
+(X short for eXamine) will tell you about it in more detail. If you want,
+you can type
+
+ ASK SPLUDWICK ABOUT MESSAGE
+
+and Spludwick will tell you about it. This is where I'm going to leave you
+for now. See if you can work out the rest of the game for yourself!
+
+(Who said it doesn't pay to read the documentation?)
+
+
+	Some important hints to help you get more information:
+	""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+  1) Whenever you go into a room, type LOOK (or press f8.) This will give
+     you a description of the room. Look around. Anything you can see,
+     you can ask about. Mostly, you should get an answer. For example,
+     in your bedroom at the start of the game, you'll see the bed, the
+     fireplace, and your wife, Arkata. Typing EXAMINE or X and then the
+     name of any of these things will give you information about it.
+     For example,
+
+      EXAMINE FIREPLACE
+      X ARKATA
+      LOOK AT BED
+
+     (Look At is the same as Examine, by the way.)
+
+     Examining a object you're carrying or a person will cause a
+     picture of it/them to appear in the toolbar.
+
+  2) Ask characters for information. Ask Dogfood about Ibythneth, for
+      example, and vice versa. Some characters may not be very good at
+      answering questions, though. Oh, yes... if you just want to chat
+      to somebody without any particular subject, try using the Talk
+      command. For example,
+
+       TALK TO DOGFOOD
+       ASK SPLUDWICK ABOUT DOGFOOD
+       SAY "SPLUDWICK" TO CRAPULUS
+       TALK TO AYLES ABOUT IBYTHNETH
+       TALK TO YOURSELF
+
+   3) There's a limit on how much you can hold. If you reach this limit,
+       consider how else you can get rid of things you're carrying that
+       have become useless, given that you're not allowed to drop them.
+
+				 Keys
+				 """"
+(The kind you find on keyboards.)
+
+Here's a list of all the keys that are valid in Avalot:
+
+	   Key   What it does
+	   ===   ============
+	    f1   Gets you context-sensitive online help! See "Help", below.
+	    f2   Switches the sound on and off.
+       ctrl-f2   Saves the game. If there's no filename, you'll be asked.
+	    f3   Restores the last line you typed.
+       ctrl-f3   Invokes the filer.
+	    f4   Restarts the game.
+	alt-f4   Quits the game.
+	    f5   Gets up, lies down, sits down, etc.
+       ctrl-f5   Invokes the DOS shell.
+	    f6   Pauses the game. (=PAUSE command.)
+	    f7   Opens a nearby door. (=OPEN command.)
+       ctrl-f7   Redraws the screen.
+	    f8   Puts up a description of this room. (=LOOK command.)
+	    f9   Tells you your score and your rank. (=SCORE command.)
+	    f10  Quits the game (again.)
+      shift-f10  Puts up the About box.
+	    f11  Synonym for ctrl-f2 (save).
+	    f12  Synonym for ctrl-f3 (load).
+	 alt-B   Puts up the Boss screen.
+	 alt-X   Quits the game (yet again.)
+	ctrl-R   Switches on Running.
+	ctrl-W   Switches on Walking.
+	 alt-R   Repeat last clock chimes.
+	   Tab   Puts up an inventory list.
+	ctrl-I   The same.
+	 Enter   Performs current command, or banishes a scroll.
+	Arrows   Move Avvy about.
+     Numeric 5   Stops Avvy walking (but ONLY on an enhanced keyboard.)
+  PgUp, PgDn,
+    Home & End   Make Avvy walk diagonally.
+     ctrl-Home   Moves the cursor to the START of the line.
+      ctrl-End   Moves it to the END of the line.
+     ctrl-Left   Moves it one space backwards.
+    ctrl-Right   ...forwards.
+     Backspace   Its usual function.
+	   Del   Ditto.
+	ctrl-J   Switches on joystick support, and disables the cursor keys.
+	ctrl-K   The reverse: disables joystick, enables the cursor keys.
+	Escape   Gets you in or out of the drop-down menus, or does the
+		  same banishing trick as Enter.
+      Plus (+)   Usually just adds a + sign, but also banishes scrolls.
+	 Pause   Pauses the entire computer until you press a key (as usual.)
+Just about
+ anything else   gets added onto the end of the command line.
+
+
+			 The drop-down menus
+			 """""""""""""""""""
+
+	Here's a short guide to playing Avalot single-handedly: in other
+words, how to use the drop-down menus to speed things up.
+
+	There are six menus:
+
+   File         Game        Action      Objects      People    With
+     New game    Help        Do...
+     Load...     Boss key    Pause
+     Save        Untrash \   Open door       (these three vary)
+     Save as...    \ screen  Look
+     DOS shell   Score+rank  Inventory
+     Quit        About Avvy  Walk or run
+
+	And here's what they do:
+
+   File | New game          (short cut: f4)
+
+      This restarts the game from the beginning. If you haven't saved your
+      game so far, you'll lose it. You're given a yes/no box to make your
+      mind up.
+
+   File | Load...           (short cut: ctrl-f3, or f12)
+
+      This brings up the filer.
+
+   File | Save              (short cut: ctrl-f2, or f11)
+
+      This saves your game, provided that it has been saved before (because
+      otherwise it doesn't have a filename, and then this is synonymous with
+      File | Save As).
+
+   File | Save As...        (no short cut.)
+
+      This asks you for a name for the game and then saves it with that name.
+
+   File | DOS shell         (short cut: ctrl-f5)
+
+      You can suspend your game and run other programs using this. Please
+      try not to run any TSR (terminate and stay resident) programs while
+      using this (like SideKick, KEYB, GRAPHICS...) because you'll cause
+      no end of problems with the memory arangements.
+
+   File | Quit              (short cut: alt-X, alt-f4, f10, etc...)
+
+      This lets you out of the game. (I think you could have guessed that.)
+
+   Game | Help              (short cut: f1)
+
+      Brings up the help system.
+
+   Game | Boss key          (short cut: alt-B)
+
+      Brings up the SWMBO protection screen (it looks like a spreadsheet).
+
+   Game | Untrash screen    (short cut: ctrl-f7)
+
+      Makes the program redraw the whole screen. I wish more games had
+      this option- it's very useful when crazy TSRs draw weird patterns of
+      red dots on the screen, or when Windows doesn't *quite* get the full
+      screen back again.
+
+   Game | Score and rank    (short cut: f9)
+
+      This gives you your score, a "ranking" based on this, and the (rough)
+      time you've spent playing the game so far (which is saved in the file
+      and continues when it's re-loaded).
+   
+   Game | About Avvy        (short cut: shift-f10)
+
+      This brings up the About box, which includes version information.
+
+   Action | Do...           (short cut: f5)
+
+      Actually, this isn't called Do, unless it doesn't work. At certain
+      points in the game, some action is important. When you reach them,
+      this option will take on a different form. A good example is right
+      at the start where you're asleep in bed: the f5 key and this menu
+      option both mean "wake up". Because of this, you can control more
+      of the game with the mouse.
+
+   Action | Pause           (short cut: f6)
+
+      Very, very self-explanatory.
+
+   Action | Open the door   (short cut: f7)
+
+      There are two actions which people spend most of their time typing
+      in games such as this, and so they have been given their own menu
+      options, and an unshifted function key each. One of them is this one,
+      opening doors (which is also used to mean "enter town" on the map),
+      and the other is...
+
+   Action | Look around     (short cut: f8)
+
+      ...this one. It's equivalent to typing LOOK.
+
+   Action | Inventory       (short cut: Tab or ctrl-I)
+
+      The time-honoured command to check your rucksack. Actually, Avalot
+      doesn't have a rucksack. Nor does he carry a flickering lamp, a
+      bottle of water or any of the other Colossal paraphernalia; however,
+      to prove the intellectual geanology of this game, GET INVENTORY works
+      just as well.
+
+   Action | Walk slowly     (short cut: ctrl-W)
+ or  
+   Action | Run fast        (short cut: ctrl-R)
+
+      These adjust Avvy's walking for precision or speed, respectively.
+      Only the relevant one is displayed (the one *not* currently in force).
+
+   Objects | ...   and  People | ...
+
+      These vary depending on your inventory (for Objects) and the people
+      in the room at the time (for People). (Of course, there will always
+      be at least one of each.) Selecting one of these makes Avvy think
+      about whatever it was, and his thoughts are reflected in the "Thinks"
+      space on the toolbar. Why is this? Well, read on...
+
+   With | ...
+
+      This varies depending on what Avvy's thinking about. Whatever you can
+      do with it, him or her will be listed here, and you can then select it
+      and it will be done.
+
+      An example: Examine the bell.
+       Select "Objects | Bell" and then "With | Examine".
+
+      Another example: Talk to Spludwick.
+       Select "People | Spludwick" and then "With | Talk to him".
+
+      Notes on this:
+
+	1) To give something to somebody, select the person, then the object,
+	    then With | Give to <person>. If you get it the wrong way round,
+	    you can still select the object and carry on. If it's going to
+	    work, the "Give to" option will be enabled, and won't end in
+	    an ellipsis ("...").
+
+	2) The pictures of the people have their signatures underneath.
+
+	3) The fastest way to examine somebody (or something) is this: when
+	    their (or its) picture is on the toolbar, just click on it and
+	    it will be examined. Ta-raaa!
+
+
+
+			       The filer
+			       """""""""
+
+	If you type LOAD with no parameters, or press ctrl-f3 when you're
+playing the game, you will enter the filer. It should be fairly
+straightforward. There are four "panes": (N)ame, (D)rives, (F)iles and
+(S)ubdirectories. Use Tab and Shift-Tab to cycle through these, or press
+Alt + the first letter of the name of the pane. On the Files and
+Subdirectories panes, you may use Home, End and the up and down cursor keys
+to move through the names. You may also press, say, J to cycle through all
+filenames or subdirectories beginning with J.
+
+	To change the drive, move to the Drives pane and press the letter.
+If the drive is not ready (e.g., if you've left the door open) then it will
+say "no files found", because it couldn't read any.
+
+	The Name pane allows you simply to type the name of the file. 
+The file will be loaded when you press Return. The Files pane scrolls 
+according to the initial letter as you type. By the way, you cannot search
+for or load any file whose extension is not .ASG.
+
+	A minor problem with the filer at the moment is this: if you're
+listening to a CD and you invoke the filer, the music will stop. The reason
+for this is that the program checks each drive between C and Z to see if
+it exists (A and B are found by using Bios calls) and since CDs on PCs double
+as data drives, reading it as such makes it think: "Oh! I'm a data drive and
+not a CD player. Well, in that case, I'd better stop playing music!" If this
+is a problem for anybody, let me know and I'll try and fix it.
+
+
+			    The main menu
+			    """""""""""""
+
+There are six options on the main menu:
+
+       1) play the game. You can also press Return or Space to do this.
+
+       2) read the background to the story (who *are* Geida and du Lustie
+	   anyway?)
+
+       3) see the preview. This is a picture from the next game (well,
+	   actually, it's *like* one: the next game will be 256-colour).
+
+       4) read the documentation (as you're doing now). Avalot has a
+	   built-in doc lister.
+
+       5) Same as 4), but jumps straight to the part about registration.
+
+       6) Exit back to DOS, if you changed your mind. ("Oh no! I really
+	   wanted to play spacewar, but I've loaded Avvy instead! How
+	   can I quit in a hurry?")
+
+
+			 Command-line options
+			 """"""""""""""""""""
+
+Normally, you just have to type AVALOT to run the game. However, there are
+also some switches and so on that you can use to make the program behave
+as you want it to. Add the switch after the word AVALOT. Don't forget to
+put a space in between them! For example,
+
+     avalot /q
+
+would start the game with no sound effects. You can specify several switches
+at once; for example,
+
+    avalot canary /o /p
+
+would start the game, ignoring the graphics adapter in use (/o), load in a
+file called CANARY.ASG, and give you a p)rinted log of your progress through
+the game.
+
+Notes on the switches:
+
+	 i)   Instead of a slash, you can use a hyphen (if you're a Unix
+	       freak.)
+
+	 ii)  Each switch must have a space before it. Thus you must type
+	       avalot /o /p instead of avalot/o/p.
+
+	 iii) You may also use AVALOT.INI commands instead of switches, if
+	       you prefix each one with a star. Thus:
+
+		    avalot *soundfx=false *loadfirst=fred
+
+	       does the same as
+
+		    avalot /q fred
+
+	       . These options override the AVALOT.INI ones, and have equal
+	       priority to switches.
+
+Here's a list of all the valid options:
+
+	 /?  This displays a list of the most important valid options,
+	      so you don't have to read this part of the docs again
+	      if you're in a hurry...
+
+ <filename>  This will load the game you specify. You must give a path if
+	      it's not in the current directory, but you may leave out
+	      the .ASG extension if you want.
+
+	 /o  (Override.) This ignores your graphics adapter. Use this as a
+	      temporary solution if Avvy tells you you don't have an EGA and
+	      you do. (But... don't bother using this if you REALLY don't,
+	      because it still won't work!)
+
+/l<filename> This will l)og your progress around the game to a file, so that
+	      you can read it back later. A similar feature is found on
+	      many text adventures, but this has a few refinements to work
+	      with the graphical environment. If you don't specify a filename
+	      (i.e., you just say "/l") the game assumes the default filename
+	      of "AVVY.LOG".
+
+  /p<device> This switch p)rints your progress to a printer on LPT1:.
+	      You can select some different kinds in Setup so that Avalot
+	      can do italics or bold here. A kludge for simple TTY is /lPRN.
+	      If you don't specify a device, the default is PRN. You can 
+	      also use a filename here, if you want to "print to disk."
+
+	      NOTE!: You cannot have *both* /l *and* /p switched on at once!
+
+	 /n  Num Lock hold. If you use /n, the computer will check every so
+	      often whether or not you have Num Lock switched on, and if you
+	      do it'll switch it off again. Num Lock is *not* useful AT ALL
+	      in this game. It's good for calculators and things, though.
+
+	 /q  Quiet! This switch turns off sound effects, so that you can play
+	      Avvy all night long and not wake up your parents/girlfriend/
+	      boyfriend/wife/husband/children/dog.
+
+	 /k  Keyboard clicky noise. If you choose this, every time you press
+	      a key, the program will bleep at you.
+
+	 /z  Zoomy start. This throws you straight into the game without
+	      the startup sequence.
+
+
+		     Pounds, shillings and pence!
+		     """"""""""""""""""""""""""""
+For reasons of historical accuracy, Avalot uses the pre-1971 system of Lsd
+(pounds, shillings and pence.) The pound sterling was divided up into twenty
+SHILLINGS. Each SHILLING subdivided into twelve PENCE. The more than 1000-year
+-old system was dropped in the early seventies as being inefficient. (It's
+interesting to think that this could have been to let the calculating
+machines of the day perform arithmetic faster. If they had only waited
+twenty years, the machines would have had no problem at all... bear in mind
+that to a digital machine, 1 pound to 100 pence is a daft system (it would
+be much more logical to have 256 pence in the pound), so it wouldn't really
+matter either way. Moral: look before you leap!)
+
+One pound is written œ1 (that probably won't print properly on your printer.)
+One penny is written 1d. Two pence is 2d. One shilling is written 1/-.
+One-and-six (1 shilling + 6 pence) is 1/6. Three-and-a-penny is 3/1, etc.
+
+  Other interesting points to note:
+
+   TUPPENCE is 2d. (Still often used nowadays to mean two new pence.)
+   THRUPPENCE (or THREPPENCE or THRIPPENCE, depending
+    where you come from) is 3d. (Occasionally still used.)
+   a GROAT is 4d. This is a mediaeval coin which later dropped out of use.
+    It comes from dividing the shilling into three parts.
+   a SIXPENCE is (surprise!) 6d. This and the thruppence were the more usual
+    later divisions of the shilling. (As in "I love sixpence, jolly jolly
+    sixpence...")
+   a GUINEA is 21 shillings. The guinea was another mediaeval coin, which,
+    although it passed out of use long ago, remained in use until
+    decimalization for calculating prices (just to confuse people).
+   a FLORIN is two shillings. It's one tenth of a pound, and so was
+    sometimes thought of as a sort of halfway decimalization idea.
+   a CROWN is five shillings.
+   HALF-A-CROWN is 2/6 (as in the rhyme "Cobbler, cobbler, mend my shoe...")
+
+
+
+			      AVALOT.INI
+			      """"""""""
+INI is short for INItialisation. As you saw above, there are several things
+you can tell the program to do, or not to do. For example, Num Lock can
+be forced off by putting /n on the command line. However, if you always
+want that to happen, it can get a bit boring typing it every time.
+
+The FIRST way to make it permanent is using Setup. This is explained
+elsewhere. But there's another way...
+
+When you tell Setup what to do, it saves the new configuration in a file
+called AVALOT.INI. Avaricius Setup saved its config in a file called AVVY.CFG.
+What's the difference? (apart from its being a different game.) Well,
+AVALOT.INI is a text file. You can load it into a text editor and make
+changes.
+
+It's the same sort of format as WIN.INI, SYSTEM.INI, SSTOOLS.INI and so on
+(but note that there are no [header]s.) Each line consists of the following:
+
+     foo=bar ; comment
+
+"Foo" is the name of the field you want to change. "Bar" is what you want
+to change it to. This can be:
+
+	  * "Yes" or "No", e.g. for Num Lock being forced on or not.
+	  * A string, e.g. "MYGAME.ASG" for the default filename.
+	  * Nothing at all, meaning "not applicable."
+
+Any spaces before or after the "foo=bar" part will be ignored. Also, any
+semicolons (";") in the line will be ignored, together with anything after
+them. (Just the same as in assembler programs.) This is for adding comments,
+so you can write
+
+   LoadFirst=AARDVARK.ASG ; load in aardvark.asg first of all.
+
+instead of
+
+   LoadFirst=AARDVARK.ASG
+
+because they both mean the same. Note that you can have a semicolon at the
+start of a line if you want the whole line to be ignored.
+
+There are comments in the file to explain what all the fields do. Good luck!
+
+(By the way, if you make a mistake in AVALOT.INI, the game won't run because
+of it, and you can't find the error in order to fix it, just delete the .INI
+file. You can always restore it from your backup later. (You kept a backup,
+DIDN'T YOU??? :-) ))
+
+
+		 ASCII silly question, get a silly ANSI!
+		 """""""""""""""""""""""""""""""""""""""
+
+I saw that on a BBS the other week. Anyway, the point of this section is
+this: In the archive, there's a file called AVALOT.ANS. This is an advert
+for Avalot, drawn up with ANSI. Some sysops put up an advert for files on
+the board whenever anybody logs on. This is for them! If you want to see
+it yourself, just type TYPE AVALOT.ANS at the Dos prompt. You'll have to
+have ANSI.SYS installed, though.
+
+(Note for sysops: this file is optimised as best I can. For example, it
+uses Cursor Forwards rather than printing spaces whenever that's smaller.
+What this boils down to is that it doesn't take very long to display: just
+over six seconds on a 2400 baud modem, and about one and a half seconds on
+a 9600. Less waiting around!)
+
+			     Who's Edna?
+			     """""""""""
+
+DNA is a substance found in molecules of all living objects. It defines
+who or what the object is (the size of its nose, the shape of its leaves,
+etc.) When I wrote Avaricius, I called the save files DNA in the code,
+because they defined the state of the game exactly.
+
+With Avalot, I made several changes, including rewriting the entire
+prehistoric DNA system. The new system I called Extended DNA. I then
+suddenly realised that E-DNA spells EDNA. So that's what I called it.
+
+How does this affect you? Well, Edna is designed so that whichever Avvy
+game you're playing (Avaricius, Avalot, or any other one we write) it will
+say in the file which game it came from. If you play more than one Avvy
+game often, you'll probably build up a library of .ASG files. Every good
+library needs a librarian, so here she is: Edna Bucket!
+
+Edna Bucket is a program called EDNA.EXE. If you run Edna with the filename
+of an .ASG file, she'll find the game it came from, load that game, and
+load the file in for you. Easy as anything. If you use Windows, 4-DOS, or
+any other system that allows file association, associate your .ASG files
+with EDNA.EXE, and then they'll always be loaded into the right game.
+
+To associate .ASG files with EDNA: Load File Manager (from Program Manager,
+select Window | Main and then double-click on the icon of a filing cabinet).
+When File Mangler (oops, Manager) has loaded, click ONCE on an .ASG file
+somewhere, then choose File | Associate... and put the path to Edna (such
+as C:\AVALOT\EDNA.EXE) in the filename box.
+
+The filenames of the games are stored in a file called EDNA.DAT. It looks
+like this:
+
+Name of game
+Path to that game
+Name of another game
+Path to THAT game
+and so on
+
+For example:
+
+Avaricius
+c:\games\avvy\avvy.exe
+Avalot
+N:\PUBLIC\GAMES\AVALOT\AVALOT.EXE
+
+If an .ASG file belongs to a game that isn't listed in this file, Edna will
+ask you about it and then add the information. If you want to change it
+later, use a text editor (such as EDIT or EDLIN) to make the changes.
+
+Edna has two switches:
+
+     /i   prints some (I)nteresting (I)nformation about the game
+	    on the screen, but does *not* load anything.
+
+     /q   stops the "Loading" message appearing.
+
+So, for example:
+
+    EDNA /i TREE
+
+    gives information about the file TREE.ASG, and
+
+    EDNA /q elephant
+
+    loads the file ELEPHANT.ASG into the relevant game.
+
+
+			  Warning for EGA users.
+			  """"""""""""""""""""""
+
+Avalot will run fine with an EGA, just as with a VGA or whatever. BUT.......
+we have decided that the next game (IF there is a next game... no promises
+yet) will run *only* on VGAs, MCGAs and above. So get an upgrade before we
+release it! (IF we release it, of course.)
+
+
+		     Support Your Local Manticore!
+		     """""""""""""""""""""""""""""
+Just testing.
+
+
+		      Getting help with the game
+		      """"""""""""""""""""""""""
+OK, I admit it: Avalot is much harder than Avaricius to win. If you get
+stuck and you need some help, you can try:
+
+	 *** A GOOD IDEA ***
+      * Posting a message on CompuServe's GAMERS forum, library 2,
+	 "Adventure Games". Almost certainly, many people will have
+	 been stuck on the same problem. Maybe they even solved it!
+
+	 You should make the subject header give as much information
+	 about the problem as possible. Don't just put "Avalot... 
+	 I'm Stuck!" (or even "help"!) A better solution is something like:
+
+	     Avalot: Solution to Nim?
+	   or
+	     Avalot: Purpose of bell
+	   etc.
+
+      * Emailing me and asking. Don't expect the entire solution!
+	 I'll just give you HINTS.
+
+	  my CompuServe address is   100021,3440
+	  my  Internet  address is   t.j.a.thurman@herts.ac.uk
+
+	 (The Internet address should work until, oh, about 1997 at least.
+	 If netmail bounces, use the CIS address. Be prepared for a long 
+	 wait if you send me netmail during the vacations! This is the 
+	 fastest way during termtime, though.)
+
+
+		     Where to get the latest version
+		     """""""""""""""""""""""""""""""
+
+I will try to upload the latest versions of Avvy to the following places
+at least. Copies will certainly make their ways to hundreds of other
+download sites.
+
+  1) Support BBS.  Paradise City, Thorsoft support area. (0734) 786408.
+		      Call +44 734 786408 from outside Britain. (*)
+  2) CompuServe.   CIS:GAMERS. Library 2, "Adventure Games".
+
+(*) WARNING: Oftel have decided to put a 1 at the start of almost all
+ UK numbers, after the 0. BE CAREFUL. The old style numbers won't work
+ after June 1995, so be ready to change over then.
+
+ For example, Paradise City will become (01734) 786408 from Britain, and
+ +44 1734 786408 from outside.
+
+ This applies to all UK numbers you may know. YOU HAVE BEEN WARNED!
+
+
+			       Reviews
+			       """""""
+Here are some reviews of the first game, Avaricius:
+
+ "The catacombs hasn't been mapped; it hardly needs it."
+				- AVVY.SOL (a solution to Avvy discovered
+					     on a BBS)
+
+  (OK, just try the maze in Avalot and see whether you can do it without
+    a map!)
+
+  "Uniquely funny and droll British humour here."
+   (Four stars plus a tick! Highest rating!)
+				-  Shareware Marketing, Devon
+
+   Three stars (out of five)
+				-  Shareware Solutions
+
+
+			   To sysops, vendors, et al
+			   """""""""""""""""""""""""
+Everyone: please distribute in the original archive, with the filename
+AVLT120.EXE for this sfx archive. If you cannot distribute self-extracting
+archives, re-archive it as AVLT120.LZH, .ZIP, .ARJ, etc. The filenames AVLT12
+and AVALOT are acceptable shortenings if the system does not allow more than
+six characters (as on CIS).
+
+Vendors: there is an installation routine. It might be available from
+wherever you got this; if it isn't, contact me (addresses in the Getting
+Help section above) and I'll tell you how to get hold of it.
+
+Both sysops and vendors: do us a favour and TELL us you're distributing
+Avalot! (Vendors, please send us the copy of your catalogue that has us in...
+and updates, for that matter.) If you do this, we'll send you a copy of the
+sequel if/ when it's finished.
+
+Also, please don't forget to add your name, etc., to the pedigree file. (BBSs
+and libraries are welcome to include a short plug for themselves in this file,
+as long as it's not more than about five or six lines long!)
+
+If anyone can get this game reviewed in a magazine, go ahead. Even better,
+go ahead and then tell us about it, we'd love to know. Even better still,
+go ahead, and then send us a copy of the magazine!
+
+				  Disclaimer
+				  """"""""""
+The part that's always written in CAPITALS. You *have* to read this!
+
+"LORD AVALOT D'ARGENT" IS LICENSED "AS-IS." THORSOFT OF LETCHWORTH
+("THORSOFT") MAKES NO WARRANTIES, EITHER EXPRESSED OR IMPLIED, WITH RESPECT
+TO THIS PROGRAM, ITS QUALITY, PERFORMANCE, MERCHANTABILITY, OR FITNESS FOR
+ANY PARTICULAR PURPOSE. IN PARTICULAR, IT IS NOT GUARANTEED TO PREVENT OR
+DETECT DAMAGE TO YOUR DATA OR PROGRAMS. IN NO EVENT SHALL THORSOFT BE LIABLE
+FOR ANY CLAIMS FOR LOST PROFITS OR ANY DAMAGE, INCLUDING, BUT NOT LIMITED TO,
+SPECIAL, INCIDENTAL, CONSEQUENTIAL OR ANY OTHER DAMAGE. SOME STATES DO NOT
+ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES,
+SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN NO CASE SHALL
+THORSOFT'S LIABILITY EXCEED THE LICENCE FEES PAID FOR THE RIGHTS TO USE THE
+LICENSED SOFTWARE. THE LICENSE AGREEMENT SHALL BE CONSTRUED, INTERPRETED AND
+GOVERNED BY THE LAWS OF ENGLAND AND WALES.
+
+(RIGHT, NOW I THINK I'LL SWITCH CAPS LOCK OFF ANd get on with the
+documentation...)
+
+			 Wish Lists, Bug Reports
+			 """""""""""""""""""""""
+
+A wish list is a list of features that you wish a program had. A bug report
+is a list of "features" you wish it DIDN'T have (and so does the programmer).
+If you can't stand the fact that, say, Avalot doesn't run in a MULTICS Dos
+box if you are over 12,000 feet above sea level, or you would really like a
+version that has a macro facility or imports .DBF files, or something, then
+let me know and I'll see what I can do, or try and find an excuse. You
+*might* even get an acknowledgement... :)
+
+
+			     Coming soon...
+			     """"""""""""""
+
+Here's my own list of possible/probable enhancements to Avalot:
+
+	   * a version which is economical with disk space. This version is
+	      very wasteful of it. Some things are stored twice and there
+	      is no compression. Later versions will be optimised and there
+	      will be a transparent compression routine. (I have a trial
+	      version of this working, and some files are down to 1/4 their
+	      original size! (Mostly they are about 1/2 to 3/4.))
+
+	   * a "talkie" version-- see below...
+
+
+			   Avalot - The Talkie
+			   """""""""""""""""""
+
+This is part of my own wish list. I'm working (vaguely) on a new part of the
+system which can play back sound files when scrolls and bubbles come up on
+the screen. For example, when Cwytalot says: "I'm not here for a quiet chat",
+you'll hear him saying it through the PC speaker or over your 'Blaster.
+Obviously, this would take up a vast amount of disk space, and so would
+probably come in a separate archive. But it would be rather fun for when
+the game was supplied on CD-ROM. Watch this space, but not all the time,
+'cos you'll get bored because nothing's likely to happen for a while yet...
+
+		     The first winner of this game
+		     """""""""""""""""""""""""""""
+
+Apart from the testers, nobody has ever won this game yet. I'll put the name
+of the first registrant who can tell me how to win here.
+
+
+			    Revision history
+			    """"""""""""""""
+
+ver.no.   date      notes
+-------   ----      -----
+ 1.3      Dec 1995   Changes in documentation, scrolls, etc. to record
+			the reduction of registration fee to GBP 10 (USD 15)
+			plus GBP 2 (USD 4) p&p (s&h). Registration fee still
+			to include one free one-size Avalot t-shirt.
+ 
+ 1.2      Apr 1995   Mended the shoot-em-up, which worked (I think) in 1.0
+			but went wrong again in 1.1. The toolbar now says
+			"Avalot" instead of "the Avvy toolbar". Talking to
+			some characters about certain things (notably Port) 
+			no longer crashes the game. And finally, the infamous
+			Mouse Bug which caused the mouse pointer to leave 
+			flashing shadows all over the screen occasionally has
+			been fixed at last. (Also a few other minor changes).
+ 1.1      Mar 1995   Fixed the music files.
+			Made all the chunk files consistent. (This could
+			have caused a system crash in older versions.)
+			Also you can now give hex numbers in AVALOT.INI
+			by starting them with a dollar sign.
+ 1.0      Oct 1994   This was the first release.
+
+
+			 *** Registration! ***
+			     """""""""""""
+If you like it, please consider registering this game. More information
+is given in the file REGISTER.DOC, which you can print by typing
+PRINT REGISTER.DOC at the DOS prompt. Here's a quick synopsis:
+
+You can order Avalot for 10 pounds sterling or 15 U.S. dollars.
+
+P&P (S&H) is two pounds, or four U.S. dollars.
+
+You also get some free goodies to thank you for registering (at the
+moment, this is an Avvy T-shirt and ruler).
+
+OR you can probably pay in your local currency. See REGISTER.DOC to see
+which currencies we can accept, and for other details.
+
+	       PRICES ARE VALID UNTIL 31st DECEMBER 1996.
+---------------------------------------------------------------------------
+
+There are four ways you can register this game:
+
+1) The traditional one... by sending a cheque through the post.
+
+   Here's our address:
+
+	   Thorsoft of Letchworth,
+	    71, Baldock Road,
+	     Letchworth,
+	      Herts. SG6 3JP.
+	       England.
+
+   Please make cheques payable to THORSOFT.
+
+2) Using PsL's shareware registration service. PsL-- Public (software)
+Library-- run a registration service that accepts major credit cards.
+You can register over the phone on an (American) 800 number, a normal number,
+by fax, or by CIS email. Here's their advert:
+
+---------------------------------------------------------------------------
+
+  CREDIT CARD ORDERS ONLY -
+
+  You can order with MC, Visa, Amex, or Discover from Public (software)
+  Library by calling 800-2424-PsL or 713-524-6394 or by FAX to 713-524-6398
+  or by CIS Email to 71355,470. You can also mail credit card orders to PsL
+  at P.O.Box 35705, Houston, TX 77235-5705.
+
+  THE ABOVE NUMBERS ARE FOR ORDERS ONLY.
+
+  Any questions about the status of the shipment of the order, refunds,
+  registration options, product details, technical support, volume discounts,
+  dealer pricing, site licenses, etc., must be directed to Thorsoft at the
+  addresses or numbers above.
+
+  To ensure that you get the latest version, PsL will notify us on the day of
+  your order and we will ship the product directly to you.
+
+  When you order, please quote Avalot's item number:   --->  11608  <---
+
+---------------------------------------------------------------------------
+
+3) Via CompuServe. Type GO SWREG at any ! prompt, or in CompuServe Information
+Manager press Ctrl-G and type SWREG. Then follow the menus.
+
+
+			     Enjoy the game!
+
+[end of documentation]
